@@ -7,7 +7,7 @@
 Fundador da **NuvionTech**. Transformo desafios de negócio em experiências digitais  
 e sistemas robustos — da estratégia e do design ao software em produção.
 
-[![Portfólio](https://img.shields.io/badge/Ver_portfólio-6D35FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-seven-pi.vercel.app)
+[![Portfólio](https://img.shields.io/badge/Ver_portfólio-6D35FF?style=for-the-badge&logo=vercel&logoColor=white)](https://gustavo-motta.vercel.app)
 [![WhatsApp](https://img.shields.io/badge/Conversar_no_WhatsApp-111015?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5527997498818)
 
 </div>
